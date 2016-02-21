@@ -5,7 +5,7 @@ A Quicksort algorithm implementation in C language
 
 In order to compile this file, you can use the following terminal command:
 
-# gcc -Wall -Werror -o exit quicksort.c
+gcc -Wall -Werror -o exit quicksort.c
 
 ## Notes
 
